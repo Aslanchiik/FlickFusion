@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#161E29</color>
+    <color name="selected_icon_tint">#E82251</color>
+    <color name="default_icon_tint">#5c5a54</color>
+</resources>
